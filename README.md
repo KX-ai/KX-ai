@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Khor Kai Xian
 
-<!--
-**KX-ai/KX-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science undergraduate at TARUMT (CGPA 3.7/4.0, graduating June 2026) with hands-on experience in AI automation, machine learning, and data engineering. Passionate about building intelligent systems that create real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About me
+
+- 🏫 Bachelor in Data Science (Honours) — TARUMT, Kuala Lumpur
+- 💼 Former AI Ops Engineer Intern @ Razer Merchant Services (Fiuu)
+- 🏆 TNG Digital FINHACK 2026 participant (top 300 nationally)
+- 🌱 Currently working on: Social Media Trend Predictor (FYP)
+- 🗣️ Languages: English · Malay · Chinese
+
+---
+
+## 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF7200?style=flat&logoColor=white)
+
+**Other:** HTML · CSS · PHP · Linux · GitLab · Pandas · Azure ML Studio
+
+---
+
+## 📌 Highlights
+
+| Metric | Result |
+|--------|--------|
+| RPA bot — reduced manual workload | **70%** |
+| Automation scripts — reduced reporting time | **70%** |
+| CGPA | **3.7 / 4.0** |
+| TNG FINHACK 2026 | **Top 300 nationally** |
+
+---
+
+## 🚀 Featured projects
+
+- 🤖 **[Social Media Trend Predictor](https://github.com/KX-ai/SocialMediaTrendPredictor)** — Predicts TikTok post virality using NLP sentiment analysis (Python, HTML, CSS)
+- 💳 **[BNPL Credit Risk Model](https://github.com/yqchin/SeekingAlpha)** — Buy Now Pay Later system with ML credit scoring, 73% accuracy (TNG FINHACK 2026)
+- 🗞️ **News Data Pipeline** — Real-time data pipeline using Kafka, Spark, YARN
+- 🏙️ **Smart City Traffic Signal** — Reinforcement learning traffic simulation (Python)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khor-kai-xian-6430ba36a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khorkaixian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KX-ai)
