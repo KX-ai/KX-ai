@@ -9,7 +9,6 @@ Data Science undergraduate at TARUMT (CGPA 3.7/4.0, graduating June 2026) with h
 - 🏫 Bachelor in Data Science (Honours) — TARUMT, Kuala Lumpur
 - 💼 Former AI Ops Engineer Intern @ Razer Merchant Services (Fiuu)
 - 🏆 TNG Digital FINHACK 2026 participant (top 300 nationally)
-- 🌱 Currently working on: Social Media Trend Predictor (FYP)
 - 🗣️ Languages: English · Malay · Chinese
 
 ---
