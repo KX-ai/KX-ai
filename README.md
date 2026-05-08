@@ -23,6 +23,7 @@ Data Science undergraduate at TARUMT (CGPA 3.7/4.0, graduating June 2026) with h
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF7200?style=flat&logoColor=white)
 
 **Other:** HTML · CSS · PHP · Linux · GitLab · Pandas · Azure ML Studio
@@ -42,10 +43,31 @@ Data Science undergraduate at TARUMT (CGPA 3.7/4.0, graduating June 2026) with h
 
 ## 🚀 Featured projects
 
-- 🤖 **[Social Media Trend Predictor](https://github.com/KX-ai/SocialMediaTrendPredictor)** — Predicts TikTok post virality using NLP sentiment analysis (Python, HTML, CSS)
-- 💳 **[BNPL Credit Risk Model](https://github.com/yqchin/SeekingAlpha)** — Buy Now Pay Later system with ML credit scoring, 73% accuracy (TNG FINHACK 2026)
-- 🗞️ **News Data Pipeline** — Real-time data pipeline using Kafka, Spark, YARN
-- 🏙️ **Smart City Traffic Signal** — Reinforcement learning traffic simulation (Python)
+### 🤖 [Botify](https://github.com/KX-ai/Test)
+Multi-modal AI chatbot built with Streamlit. Supports PDF summarization, audio transcription (Whisper), and image captioning (BLIP-2) with multi-LLM support via Groq API and ROUGE score evaluation.
+
+`Python` `Streamlit` `Groq LLM` `Whisper` `BLIP-2` `NLP`
+
+---
+
+### 📈 [Social Media Trend Predictor](https://github.com/KX-ai/SocialMediaTrendPredictor)
+Final Year Project — Predicts TikTok post virality using NLP sentiment analysis on comments.
+
+`Python` `NLP` `HTML/CSS`
+
+---
+
+### 💳 [BNPL Credit Risk Model](https://github.com/yqchin/SeekingAlpha)
+Buy Now Pay Later system with ML credit scoring achieving 73% accuracy — built at TNG Digital FINHACK 2026.
+
+`Python` `Machine Learning`
+
+---
+
+### 🗞️ News Data Pipeline
+Real-time data pipeline for news articles using Apache Kafka, Spark, and YARN.
+
+`Python` `Kafka` `Spark` `YARN`
 
 ---
 
